@@ -1,14 +1,11 @@
 ﻿body {
     color: darkorange;
     text-align: center;
-<<<<<<< HEAD
-    font-family: 'Courier New';
+    font-family: 'Comic Sans MS';
     font-size:17px;
     color: darkorange;
-=======
     font-family: Arial;
     font-size: 17px;
->>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
