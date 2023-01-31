@@ -1,8 +1,0 @@
-secret Message
-.
-.
-.
-.
-This is a change to show in the next version.
-
-este cambio no debe ir
